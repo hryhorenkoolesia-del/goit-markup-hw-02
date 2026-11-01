@@ -9,11 +9,8 @@
   text-align: center;
   color: #2e2f42;
 }
-.team-title-list {
-}
 .team-list-item {
   background-color: #ffffff;
-  border-radius: 0 0 4px 4px;
 }
 .team-image {
   display: block;
@@ -24,10 +21,12 @@
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-align: center;
 }
 .team-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  text-align: center;
 }
